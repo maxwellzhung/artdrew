@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">Twilloop logo</title>
+  <desc id="desc">Original loop and stitch mark for the Twilloop art toy IP.</desc>
+  <rect width="128" height="128" rx="22" fill="#fffdf7"/>
+  <path d="M42 75c-14 0-24-9-24-22s10-23 24-23c11 0 18 5 25 15l10 14c4 6 8 9 14 9 7 0 12-5 12-13s-5-13-13-13c-6 0-11 3-15 9" fill="none" stroke="#0b0c10" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M39 76c9 0 16-5 23-15l10-14c5-7 10-11 18-11" fill="none" stroke="#235aa6" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="40" cy="53" r="6" fill="#c83f31"/>
+  <circle cx="90" cy="55" r="6" fill="#f1bf2d"/>
+  <path d="M32 94h64" fill="none" stroke="#0b0c10" stroke-width="8" stroke-linecap="round"/>
+  <path d="M44 94v12M64 94v12M84 94v12" fill="none" stroke="#0b0c10" stroke-width="6" stroke-linecap="round"/>
+</svg>

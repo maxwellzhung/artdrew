@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
+  <title id="title">Brumlet logo</title>
+  <desc id="desc">A tiny rainy-window mist mascot with diode eyes and a halo ring.</desc>
+  <rect x="10" y="10" width="76" height="76" rx="16" fill="#f8fbff" stroke="#0b0c10" stroke-width="6"/>
+  <path d="M42 20c4-8 18-5 18 5 0 3-1 6-3 8 10 3 17 12 17 25 0 14-10 24-26 24S22 72 22 58c0-12 6-21 16-25-1-4 0-9 4-13Z" fill="#d9f7ff" stroke="#0b0c10" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M39 28c5-7 15-3 15 5" fill="none" stroke="#16c8c2" stroke-width="5" stroke-linecap="round"/>
+  <path d="M32 62c4 5 26 5 32 0" fill="none" stroke="#0b0c10" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="39" cy="51" r="4" fill="#0b0c10"/>
+  <circle cx="57" cy="51" r="4" fill="#0b0c10"/>
+  <circle cx="39" cy="51" r="1.5" fill="#ffe08a"/>
+  <circle cx="57" cy="51" r="1.5" fill="#ffe08a"/>
+  <path d="M26 42c-6 3-9 9-9 16M79 58c0-7-3-13-9-16" fill="none" stroke="#ff7c3d" stroke-width="5" stroke-linecap="round"/>
+  <path d="M35 79v6M48 81v7M61 79v6" stroke="#0b0c10" stroke-width="5" stroke-linecap="round"/>
+  <path d="M70 21a10 10 0 1 1-14 0 10 10 0 0 1 14 0Z" fill="#ffe08a" stroke="#0b0c10" stroke-width="5"/>
+</svg>
